@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git remote *)",
+      "Bash(git config *)",
+      "Bash(git branch *)",
+      "Bash(git merge *)",
+      "Bash(git stash *)",
+      "Bash(git rebase *)",
+      "Bash(git reset *)",
+      "Bash(git checkout *)",
+      "Bash(git clone *)",
+      "Bash(git init *)",
+      "Bash(npm run electron:dev)",
+      "Bash(npm run electron:build)",
+      "Bash(npm install *)",
+      "Bash(npm uninstall *)",
+      "Bash(taskkill *)",
+      "Bash(node -e *)",
+      "Bash(npx *)",
+      "Bash(rm *)",
+      "Bash(mkdir *)",
+      "Bash(chmod *)"
+    ]
+  }
+}
